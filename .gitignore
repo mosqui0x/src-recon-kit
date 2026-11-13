@@ -1,0 +1,16 @@
+# Mosqui（蚊子） · src-recon-kit
+
+__pycache__/
+*.pyc
+*.pyo
+
+# 跑出来的结果别往仓库里放
+hits.jsonl
+swagger_hits.jsonl
+*.log
+out.txt
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

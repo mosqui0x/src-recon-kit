@@ -1,0 +1,8 @@
+# src-recon-kit  ——  Mosqui（蚊子）
+
+# 示例目标列表，一行一个根地址，井号开头是注释
+# 换成你自己有授权的目标再跑
+
+https://example.com
+https://example.org
+# http://example.net

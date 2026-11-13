@@ -3,7 +3,7 @@
 """
 leak_path_fleet.py —— 批量探测高确定性信息泄露路径
 
-Author : Mosqui（蚊子）  https://github.com/3516381493
+Author : Mosqui（蚊子）  https://github.com/mosqui0x
 Project: src-recon-kit
 Version: 1.0
 Date   : 2026-11

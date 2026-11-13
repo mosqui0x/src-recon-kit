@@ -3,7 +3,7 @@
 """
 git_leak_check.py —— 判断目标站点的 .git 目录是否可被完整读取
 
-Author : Mosqui（蚊子）  https://github.com/3516381493
+Author : Mosqui（蚊子）  https://github.com/mosqui0x
 Project: src-recon-kit
 Version: 1.0
 Date   : 2026-11

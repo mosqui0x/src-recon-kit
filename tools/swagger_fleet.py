@@ -3,7 +3,7 @@
 """
 swagger_fleet.py —— 批量探测 OpenAPI / Swagger 文档是否对外暴露
 
-Author : Mosqui（蚊子）  https://github.com/3516381493
+Author : Mosqui（蚊子）  https://github.com/mosqui0x
 Project: src-recon-kit
 Version: 1.0
 Date   : 2026-11
